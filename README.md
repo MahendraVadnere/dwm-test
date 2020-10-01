@@ -1,4 +1,4 @@
-this is my work in progress build of DWM
+This is my work in progress build of DWM
 
 
 
