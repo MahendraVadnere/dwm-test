@@ -45,6 +45,14 @@ like this in your .xinitrc:
     done &
     exec dwm
 
+Display/Login Manager Users
+---------------------------
+For systems having Display Manager or Login Manager (like GDM,
+LightDM, LXDM, etc) need not to start DWM through startx and
+need not to usr .xinitrc file.
+
+Just add the dwm.desktop file in your systems xsessions
+folder (for example, /usr/share/xsessions/)
 
 Configuration
 -------------
